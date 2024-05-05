@@ -22,3 +22,9 @@ Pylance version:
 Pylance async client (2024.4.106) started with python extension (2024.6.0)
 Pylance language server 2024.4.106 (pyright version 1.1.360, commit 4bc8428d) starting
 ```
+
+Video: 
+
+<video id="video" controls="" preload="none">
+    <source id="mp4" src="./bug-report.mp4" type="video/mp4">
+</videos>
