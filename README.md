@@ -25,10 +25,5 @@ Pylance language server 2024.4.106 (pyright version 1.1.360, commit 4bc8428d) st
 
 Video: 
 
-<video id="video" controls="" preload="none">
-    <source id="mp4" src="./bug-report.mp4" type="video/mp4">
-</videos>
-
-
-https://github.com/myuanz/pylance-pyside-hang/assets/25359546/9b39b4e5-8f8a-4b64-90c0-87ca451ad4d8
+https://github.com/myuanz/pylance-pyside-hang/assets/25359546/578d6f25-0d52-49b6-a3ce-ee4e4b658537
 
